@@ -2,14 +2,14 @@
 CompatibilityVersion: 240800
 Depends: 
 Description: unset-description
-Filename: 5183e8eb-68e2-4d69-92fe-360cdc102706_99.88.77.66_windows_x64.nipkg
+Filename: d85e9804-8ab6-474f-9de1-b68fe1024bf7_99.88.77.66_windows_x64.nipkg
 Homepage: unset-home-page
-MD5sum: 3ba6fda9d00123c49f2e327d63e8b2a7
+MD5sum: 701a13f07f6b5d0130018b5873312fc9
 Maintainer: unset-maintainer
-Package: 5183e8eb-68e2-4d69-92fe-360cdc102706
+Package: d85e9804-8ab6-474f-9de1-b68fe1024bf7
 Plugin: file
 Section: unset-section
-Size: 728
+Size: 30816638
 StoreProduct: yes
 UserVisible: yes
 Version: 99.88.77.66

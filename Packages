@@ -1,12 +1,12 @@
-Architecture: windows_x64
+﻿Architecture: windows_x64
 CompatibilityVersion: 240800
 Depends: 
 Description: unset-description
-Filename: C:\Users\DawidWozny\AppData\Local\Temp\4e0e0944-4314-4fc2-816f-c675f832935e\ab0aabac-f0c3-4a5d-a80b-486a6d865982_99.88.77.66_windows_x64.nipkg
+Filename: 773e49b3-f562-43a4-bb7c-8539eea50bfd_99.88.77.66_windows_x64.nipkg
 Homepage: unset-home-page
-MD5sum: 591cf2eb62e188fb719e456f9f9a3d7f
+MD5sum: 89caa567f2790379b44f4ed60a1d2312
 Maintainer: unset-maintainer
-Package: ab0aabac-f0c3-4a5d-a80b-486a6d865982
+Package: 773e49b3-f562-43a4-bb7c-8539eea50bfd
 Plugin: file
 Section: unset-section
 Size: 734

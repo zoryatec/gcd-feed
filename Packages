@@ -1,0 +1,16 @@
+﻿Architecture: windows_x64
+CompatibilityVersion: 240800
+Depends: 
+Description: unset-description
+Filename: d3b45ba1-9db3-474b-8053-fa7caf6cfbc0_99.88.77.66_windows_x64.nipkg
+Homepage: unset-home-page
+MD5sum: 710d8b67c685d56c9c3b0959d04efa7c
+Maintainer: unset-maintainer
+Package: d3b45ba1-9db3-474b-8053-fa7caf6cfbc0
+Plugin: file
+Section: unset-section
+Size: 732
+StoreProduct: yes
+UserVisible: yes
+Version: 99.88.77.66
+

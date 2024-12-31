@@ -1,16 +1,16 @@
-﻿Architecture: windows_x64
+Architecture: windows_x64
 CompatibilityVersion: 240800
 Depends: 
-Description: unset-description
-Filename: 532fc490-379b-4a6f-89c2-c72a5a2aef5c_99.88.77.66_windows_x64.nipkg
-Homepage: unset-home-page
-MD5sum: 4cb6eae8727a67e77b301088c63cc116
-Maintainer: unset-maintainer
-Package: 532fc490-379b-4a6f-89c2-c72a5a2aef5c
+Description: G CI/CD tool
+Filename: https://github.com/zoryatec/gcd/releases/download/v0.13.0/gcd_0.13.0_windows_x64.nipkg
+Homepage: https://github.com/zoryatec/gcd
+MD5sum: f3da777883e9c0e8c160aa0ffe02bc9f
+Maintainer: Dawid Wozny
+Package: gcd
 Plugin: file
-Section: unset-section
-Size: 30816638
+Section: tools
+Size: 31459884
 StoreProduct: yes
 UserVisible: yes
-Version: 99.88.77.66
+Version: 0.13.0
 

@@ -1,0 +1,16 @@
+﻿Architecture: windows_x64
+CompatibilityVersion: 240800
+Depends: 
+Description: G CI/CD tool
+Filename: gcd-dev_0.13.0.76_windows_x64.nipkg
+Homepage: https://github.com/zoryatec/gcd
+MD5sum: 4e4569cb3b0bea615cd0163a1654486e
+Maintainer: Dawid Wozny
+Package: gcd-dev
+Plugin: file
+Section: tools
+Size: 32834212
+StoreProduct: yes
+UserVisible: yes
+Version: 0.13.0.76
+

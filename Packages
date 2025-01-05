@@ -2,15 +2,15 @@
 CompatibilityVersion: 240800
 Depends: 
 Description: G CI/CD tool
-Filename: gcd-dev_0.13.0.129_windows_x64.nipkg
+Filename: gcd-dev_0.13.0.130_windows_x64.nipkg
 Homepage: https://github.com/zoryatec/gcd
-MD5sum: 84379d137d57a17ecf971dd713c3a783
+MD5sum: b63731edac7e13d512092f7f2f26811c
 Maintainer: Dawid Wozny
 Package: gcd-dev
 Plugin: file
 Section: tools
-Size: 32877450
+Size: 32877726
 StoreProduct: yes
 UserVisible: yes
-Version: 0.13.0.129
+Version: 0.13.0.130
 
